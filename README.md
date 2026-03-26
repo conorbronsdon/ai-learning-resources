@@ -46,8 +46,6 @@ Episodes from [Chain of Thought](https://chainofthought.show) that help build yo
 
 - **[Beyond Transformers](https://share.transistor.fm/s/645ba9fe)** — Maxime Labonne. Model architectures beyond the transformer — what comes next.
 
----
-
 ## Stage 2: Start Using AI Effectively
 
 You understand the basics. Now make it useful.
@@ -86,7 +84,6 @@ You understand the basics. Now make it useful.
 - **[Practical Lessons for GenAI Evals](https://share.transistor.fm/s/c5db81b4)** — Chip Huyen & Vivienne Zhang. Hands-on guide to evaluating AI outputs — essential for anyone building with LLMs.
 - **[Low-Code AI: From Requirements to Enterprise Apps in Minutes](https://share.transistor.fm/s/4dd2a8ce)** — Rodrigo Coutinho. Accessible for non-developers — shows AI tool usage without deep technical skill.
 
----
 
 ## Stage 3: Build with Claude Code & MCP
 
@@ -157,8 +154,6 @@ Once you have Claude Code installed, try these as starter projects:
 - **[Defining the AI Agent Stack](https://share.transistor.fm/s/6d776ed2)** — Joao Moura (CrewAI). The layers of the agent toolchain — what sits where and why.
 - **[After Code Gen](https://share.transistor.fm/s/5fbf1f25)** — Greg Foster (Graphite). What the dev workflow looks like when AI writes the code.
 
----
-
 ## Stage 4: Think Strategically About AI
 
 The hardest part isn't using AI — it's knowing what it changes about your work, your industry, and your decisions.
@@ -180,8 +175,6 @@ The hardest part isn't using AI — it's knowing what it changes about your work
 - **[The Agent Bubble Debate](https://share.transistor.fm/s/3a5c548d)** — Kelly Vaughn. Healthy skepticism about agent hype — an important counterpoint.
 - **[From Demo to Defensibility](https://share.transistor.fm/s/fdb45b54)** — Aurimas Griciuanas. Why most AI demos don't become real businesses, and what separates the ones that do.
 - **[The 2025 AI Shift: From Chat to Task Completion](https://share.transistor.fm/s/3577fd8c)** — Vikram Chatterji & Atindriyo Sanyal (Galileo). Trust, not technology, is the bottleneck for AI agent adoption.
-
----
 
 ## Structured courses
 
