@@ -8,8 +8,6 @@ This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or j
 
 **Git:** Claude Code and many AI tools use Git for version control. If you're new to it, [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/) will get you up to speed in 10 minutes. Prefer video? [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) (Fireship, 3 min) covers the essentials.
 
----
-
 ## Stage 1: Understand How AI Works
 
 You don't need a CS degree. You need mental models for what's happening under the hood so you can reason about what AI can and can't do.
