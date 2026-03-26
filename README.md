@@ -4,6 +4,16 @@ A curated learning path from "what even is AI?" to building your own AI-powered 
 
 This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or jump to wherever you are.
 
+## Contents
+
+- [Prerequisites](#prerequisites)
+- [Structured courses](#prefer-a-structured-course) (alternative to the staged path)
+- [Stage 1: Understand How AI Works](#stage-1-understand-how-ai-works)
+- [Stage 2: Start Using AI Effectively](#stage-2-start-using-ai-effectively)
+- [Stage 3: Build with AI Coding Tools](#stage-3-build-with-ai-coding-tools)
+- [Stage 4: Think Strategically About AI](#stage-4-think-strategically-about-ai)
+- [Keep Learning](#keep-learning) (ongoing resources)
+
 ## Prerequisites
 
 **Git:** Claude Code and many AI tools use Git for version control. If you're new to it, [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/) will get you up to speed in 10 minutes. Prefer video? [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) (Fireship, 3 min) covers the essentials.
