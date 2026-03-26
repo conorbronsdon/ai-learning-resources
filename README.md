@@ -44,9 +44,6 @@ You don't need a CS degree. You need mental models for what's happening under th
 
 Episodes from [Chain of Thought](https://chainofthought.show) that help build your mental model:
 
-- **[The State of AI: Open-Source Models & Enterprise Trust](https://share.transistor.fm/s/345672b7)** — May Habib & Galileo co-founders. Foundational overview of where AI stands — open vs. closed models, enterprise trust gaps.
-- **[GenAI Predictions for 2025](https://share.transistor.fm/s/0f0efc07)** — Sara Hooker (Cohere), Craig Wiley (Databricks), Vikram Chatterji (Galileo). Three AI company leaders map the landscape and where it's heading.
-- **[How DeepSeek Changed the AI Race Overnight](https://share.transistor.fm/s/4bf30e72)** — How a single model release shifted global AI competition. Good entry point for understanding model economics.
 - **[Beyond Transformers](https://share.transistor.fm/s/645ba9fe)** — Maxime Labonne. Model architectures beyond the transformer — what comes next.
 
 ---
