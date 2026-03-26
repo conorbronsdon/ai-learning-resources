@@ -65,10 +65,10 @@ You understand the basics. Now make it useful.
 
 There are many AI tools, and more launching every week. The main ones worth knowing:
 - **ChatGPT** (OpenAI) — the most widely used, good general-purpose starting point
-- **Claude** (Anthropic) — strong at writing, analysis, and long documents
+- **Claude** (Anthropic) — strong at writing, analysis, and long documents (my personal favorite as of 2026)
 - **Gemini** (Google) — integrated with Google Workspace
 - **Perplexity** — AI-powered search with citations
-- **Claude Code / Cursor / Windsurf** — AI coding tools (see Stage 3)
+- **Claude Code / Codex / Cursor / Windsurf** — AI coding tools (see Stage 3)
 
 Don't overthink the choice. Pick one and start using it daily. You'll develop preferences fast.
 
