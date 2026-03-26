@@ -91,7 +91,7 @@ Don't overthink the choice. Pick one and start using it daily. You'll develop pr
 
 ### Know the limits
 
-AI tools hallucinate, leak data to providers, and confidently produce wrong answers. Before relying on them:
+AI tools hallucinate, leak data to providers, and confidently produce wrong answers as they seek to predict the right response. Before relying on them:
 - Never paste sensitive/proprietary data into a tool without understanding its data policy
 - Always verify factual claims, especially numbers, citations, and dates
 - AI is a collaborator, not an authority — you own the output
