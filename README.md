@@ -85,7 +85,7 @@ You understand the basics. Now make it useful.
 ### Podcast episodes
 
 - **[How Block Deployed AI Agents to 12,000 Employees in 8 Weeks w/ MCP](https://share.transistor.fm/s/90efac38)** — Angie Jones. Concrete enterprise deployment with real numbers — the "how we actually did it" episode.
-- **[Architecting AI Agents: The Shift from Models to Systems](https://share.transistor.fm/s/a22109d3)** — Aishwarya Srinivasan. Best retention rate in the catalog. How to think about agents as systems, not just models.
+- **[Architecting AI Agents: The Shift from Models to Systems](https://share.transistor.fm/s/a22109d3)** — Aishwarya Srinivasan. How to think about agents as systems, not just models.
 - **[Practical Lessons for GenAI Evals](https://share.transistor.fm/s/c5db81b4)** — Chip Huyen & Vivienne Zhang. Hands-on guide to evaluating AI outputs — essential for anyone building with LLMs.
 - **[Low-Code AI: From Requirements to Enterprise Apps in Minutes](https://share.transistor.fm/s/4dd2a8ce)** — Rodrigo Coutinho. Accessible for non-developers — shows AI tool usage without deep technical skill.
 
