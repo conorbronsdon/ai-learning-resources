@@ -45,9 +45,6 @@ You don't need a CS degree. You need mental models for what's happening under th
 - **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)** — Jay Alammar
   The canonical visual blog post for understanding transformer architecture. More technical than the above, but still accessible with diagrams for every step.
 
-- **[Transformer Explainer](https://poloclub.github.io/transformer-explainer/)** — Georgia Tech / Polo Club
-  Interactive browser tool — type text and watch the model process it through attention and prediction in real time.
-
 - **[The AI Revolution: Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)** — Tim Urban (Wait But Why)
   Written in 2015, pre-LLM, but still the best accessible piece on why AI matters at civilizational scale. Good for the "why should I care" framing.
 
@@ -64,6 +61,17 @@ Episodes from [Chain of Thought](https://chainofthought.show) that help build yo
 
 You understand the basics. Now make it useful.
 
+### Choosing a tool
+
+There are many AI tools, and more launching every week. The main ones worth knowing:
+- **ChatGPT** (OpenAI) — the most widely used, good general-purpose starting point
+- **Claude** (Anthropic) — strong at writing, analysis, and long documents
+- **Gemini** (Google) — integrated with Google Workspace
+- **Perplexity** — AI-powered search with citations
+- **Claude Code / Cursor / Windsurf** — AI coding tools (see Stage 3)
+
+Don't overthink the choice. Pick one and start using it daily. You'll develop preferences fast.
+
 ### Start here
 
 - **[The Practical Guide to Using AI to Do Stuff](https://www.oneusefulthing.org/p/the-practical-guide-to-using-ai-to)** — Ethan Mollick
@@ -78,15 +86,19 @@ You understand the basics. Now make it useful.
 - **[An Opinionated Guide to Using AI Right Now](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai)** — Ethan Mollick
   More recent, more opinionated. Recommends specific tools for specific tasks. Good for decision-makers.
 
-- **Prompt engineering references** — Useful as reference material, but don't over-invest here. Modern tools like Claude Code handle most prompting complexity for you. If you want to go deep: [Anthropic's guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices), [Anthropic's interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (free, hands-on), or [DAIR.AI's Prompt Engineering Guide](https://www.promptingguide.ai/) (comprehensive reference).
+- **Prompt engineering references** — Useful as reference material, but don't over-invest here. Modern tools handle most prompting complexity for you. If you want to go deep: [Anthropic's guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices), [Anthropic's interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (free, hands-on), or [DAIR.AI's Prompt Engineering Guide](https://www.promptingguide.ai/) (comprehensive reference).
   *Video alternative: [Prompt Engineering Tutorial](https://www.youtube.com/watch?v=_ZvnD73m40o) (freeCodeCamp, ~1 hr)*
+
+### Know the limits
+
+AI tools hallucinate, leak data to providers, and confidently produce wrong answers. Before relying on them:
+- Never paste sensitive/proprietary data into a tool without understanding its data policy
+- Always verify factual claims, especially numbers, citations, and dates
+- AI is a collaborator, not an authority — you own the output
 
 ### Podcast episodes
 
-- **[How Block Deployed AI Agents to 12,000 Employees in 8 Weeks w/ MCP](https://share.transistor.fm/s/90efac38)** — Angie Jones. Concrete enterprise deployment with real numbers — the "how we actually did it" episode.
-- **[Architecting AI Agents: The Shift from Models to Systems](https://share.transistor.fm/s/a22109d3)** — Aishwarya Srinivasan. How to think about agents as systems, not just models.
-- **[Practical Lessons for GenAI Evals](https://share.transistor.fm/s/c5db81b4)** — Chip Huyen & Vivienne Zhang. Hands-on guide to evaluating AI outputs — essential for anyone building with LLMs.
-- **[Low-Code AI: From Requirements to Enterprise Apps in Minutes](https://share.transistor.fm/s/4dd2a8ce)** — Rodrigo Coutinho. Accessible for non-developers — shows AI tool usage without deep technical skill.
+- **[He Built an AI Coworker That Runs 90% of His Day](https://newsletter.chainofthought.show/p/he-named-his-ai-coworker-marvin-it)** — Sterling Chin. A practitioner who stopped treating AI as a tool and started treating it like a junior employee. The clearest example of what daily AI integration looks like.
 
 
 ## Stage 3: Build with AI Coding Tools
@@ -140,7 +152,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
 
 ### What to build first
 
-Once you have Claude Code installed, try these as starter projects:
+Once you have Claude Code installed, try these as starter projects. Don't have a project? Create an empty folder with a README — that's enough to start.
 
 1. **Add the [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) skill** to a project and run it on something you've written. Seeing Claude audit your own text is the fastest way to understand how skills work.
 2. **Write a CLAUDE.md file** for a project you're working on. Start with 3-5 instructions about how you want Claude to behave. Iterate from there.
@@ -169,12 +181,18 @@ The hardest part isn't using AI — it's knowing what it changes about your work
 - **[Co-Intelligence](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)** — Ethan Mollick (book, also listed in Stage 2)
   The strategic framing chapters are as valuable as the practical ones. Read it twice — once for "how" and once for "what it means."
 
+- **[Block Cut 4,000 Jobs and Blamed AI. The Truth is More Complicated.](https://newsletter.chainofthought.show/p/block-cut-4000-jobs-and-blamed-ai)** — Conor Bronsdon
+  What actually happens when a company restructures around AI. The gap between the headline and the reality.
+
 ### Podcast episodes
 
 - **[First Code, Then AGI](https://share.transistor.fm/s/17ac922c)** — Jason Warner & Eiso Kant (Poolside). Big-picture thinking on the path to AGI through software specialization.
 - **[How AI Velocity is Rewriting the Rules for Engineering Leaders](https://share.transistor.fm/s/5178eb0a)** — Claire Vo (ChatPRD). Leadership accountability framework for AI adoption.
 - **[Why Most Enterprise AI Projects Fail to Show ROI](https://share.transistor.fm/s/dd11211d)** — HP, ServiceNow, Accenture panel. The reality check on enterprise AI.
 - **[From Demo to Defensibility](https://share.transistor.fm/s/fdb45b54)** — Aurimas Griciuanas. Why most AI demos don't become real businesses, and what separates the ones that do.
+- **[How Block Deployed AI Agents to 12,000 Employees in 8 Weeks w/ MCP](https://share.transistor.fm/s/90efac38)** — Angie Jones. Concrete enterprise deployment with real numbers.
+- **[Architecting AI Agents: The Shift from Models to Systems](https://share.transistor.fm/s/a22109d3)** — Aishwarya Srinivasan. How to think about agents as systems, not just models.
+- **[Practical Lessons for GenAI Evals](https://share.transistor.fm/s/c5db81b4)** — Chip Huyen & Vivienne Zhang. Hands-on guide to evaluating AI outputs.
 
 ## Keep learning
 
