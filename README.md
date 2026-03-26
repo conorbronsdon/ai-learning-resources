@@ -1,6 +1,6 @@
 # AI Learning Resources
 
-A curated learning path from "what even is AI?" to building your own AI-powered workflows. Quality over quantity — every resource here is the best of its kind.
+A curated learning path from "what even is AI?" to building your own AI-powered workflows. Quality over quantity. Every resource is meant to be excellent - submit a PR if it's not!
 
 This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or jump to wherever you are.
 
