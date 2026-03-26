@@ -137,6 +137,14 @@ Hands-on. Install tools, build workflows, connect AI to your actual work.
 - **[awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** — wong2
   Largest curated list of MCP servers by category. Good for discovering what's available.
 
+### What to build first
+
+Once you have Claude Code installed, try these as starter projects:
+
+1. **Add the [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) skill** to a project and run it on something you've written. Seeing Claude audit your own text is the fastest way to understand how skills work.
+2. **Write a CLAUDE.md file** for a project you're working on. Start with 3-5 instructions about how you want Claude to behave. Iterate from there.
+3. **Install an MCP server** (start with one from the [official servers repo](https://github.com/modelcontextprotocol/servers)) and use it in Claude Code. The jump from "Claude can read files" to "Claude can access my calendar" is when it clicks.
+
 ### Skills & Tools
 
 - **[agentskills.io](https://agentskills.io)** — Portable skill format that works across 40+ AI coding tools.
