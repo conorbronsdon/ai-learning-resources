@@ -119,6 +119,9 @@ Hands-on. Install tools, build workflows, connect AI to your actual work.
 - **[Claude Code GitHub repo](https://github.com/anthropics/claude-code)** — Anthropic
   Open source. Good for architecture understanding, CLAUDE.md examples, and filing issues.
 
+- **[MARVIN template](https://github.com/SterlingChin/marvin-template)** — Sterling Chin
+  Reference architecture for an autonomous background agent that runs on GitHub Actions + Claude Code. Good example of what's possible once you're comfortable with the basics.
+
 ### MCP (Model Context Protocol)
 
 - **[What is MCP?](https://modelcontextprotocol.io/introduction)** — Anthropic / MCP team
