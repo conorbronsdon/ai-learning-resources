@@ -188,11 +188,9 @@ The hardest part isn't using AI — it's knowing what it changes about your work
 
 - **[First Code, Then AGI](https://share.transistor.fm/s/17ac922c)** — Jason Warner & Eiso Kant (Poolside). Big-picture thinking on the path to AGI through software specialization.
 - **[How AI Velocity is Rewriting the Rules for Engineering Leaders](https://share.transistor.fm/s/5178eb0a)** — Claire Vo (ChatPRD). Leadership accountability framework for AI adoption.
-- **[Why Most Enterprise AI Projects Fail to Show ROI](https://share.transistor.fm/s/dd11211d)** — HP, ServiceNow, Accenture panel. The reality check on enterprise AI.
 - **[From Demo to Defensibility](https://share.transistor.fm/s/fdb45b54)** — Aurimas Griciuanas. Why most AI demos don't become real businesses, and what separates the ones that do.
 - **[How Block Deployed AI Agents to 12,000 Employees in 8 Weeks w/ MCP](https://share.transistor.fm/s/90efac38)** — Angie Jones. Concrete enterprise deployment with real numbers.
 - **[Architecting AI Agents: The Shift from Models to Systems](https://share.transistor.fm/s/a22109d3)** — Aishwarya Srinivasan. How to think about agents as systems, not just models.
-- **[Practical Lessons for GenAI Evals](https://share.transistor.fm/s/c5db81b4)** — Chip Huyen & Vivienne Zhang. Hands-on guide to evaluating AI outputs.
 
 ## Keep learning
 
@@ -201,6 +199,7 @@ Ongoing sources worth following once you've worked through the stages:
 - **[One Useful Thing](https://www.oneusefulthing.org/)** — Ethan Mollick's Substack. The best ongoing writing about AI's practical impact on work. Updated regularly.
 - **[Chain of Thought newsletter](https://newsletter.chainofthought.show)** — Weekly updates on AI tools, workflows, and what's working in production.
 - **[How I AI](https://www.youtube.com/@howiaipodcast)** — Podcast focused on how people actually use AI in their daily work. Practical, not theoretical.
+- **[Dwarkesh Podcast](https://www.youtube.com/@DwarkeshPatel)** — Long-form interviews with AI researchers, founders, and thinkers. The best deep-dive conversations on where AI is heading.
 - **[Simon Willison's Weblog](https://simonwillison.net/)** — Deep, practical coverage of LLMs, tools, and the developer experience side of AI.
 
 ---
