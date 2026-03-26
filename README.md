@@ -57,23 +57,13 @@ You understand the basics. Now make it useful.
 - **[Co-Intelligence: Living and Working with AI](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)** — Ethan Mollick (book)
   Best single book for non-technical professionals. Four principles: always invite AI, be the human in the loop, treat it as a smart-but-alien collaborator, assume it's the worst AI you'll ever use.
 
-- **[Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** — Anthropic
-  Official Claude prompting best practices. Covers clarity, XML tags, chain-of-thought, and Claude-specific behavior.
-  *Video alternative: [Prompt Engineering Tutorial](https://www.youtube.com/watch?v=_ZvnD73m40o) (freeCodeCamp, ~1 hr) — comprehensive walkthrough with hands-on examples.*
-
 ### Go deeper
 
 - **[An Opinionated Guide to Using AI Right Now](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai)** — Ethan Mollick
   More recent, more opinionated. Recommends specific tools for specific tasks. Good for decision-makers.
 
-- **[Prompt Engineering Guide](https://www.promptingguide.ai/)** — DAIR.AI
-  Comprehensive reference for prompting techniques (few-shot, chain-of-thought, tree-of-thought, RAG). More technical — use as a reference manual.
-
-- **[Anthropic Interactive Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)** — Anthropic
-  9-chapter hands-on course with Jupyter notebooks. Each lesson has a playground. Free.
-
-- **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)** — OpenAI
-  Official best practices. Concise, actionable, model-specific. Industry standard for GPT prompting.
+- **Prompt engineering references** — Useful as reference material, but don't over-invest here. Modern tools like Claude Code handle most prompting complexity for you. If you want to go deep: [Anthropic's guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices), [Anthropic's interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (free, hands-on), or [DAIR.AI's Prompt Engineering Guide](https://www.promptingguide.ai/) (comprehensive reference).
+  *Video alternative: [Prompt Engineering Tutorial](https://www.youtube.com/watch?v=_ZvnD73m40o) (freeCodeCamp, ~1 hr)*
 
 ### Podcast episodes
 
