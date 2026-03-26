@@ -182,6 +182,7 @@ Ongoing sources worth following once you've worked through the stages:
 
 - **[One Useful Thing](https://www.oneusefulthing.org/)** — Ethan Mollick's Substack. The best ongoing writing about AI's practical impact on work. Updated regularly.
 - **[Chain of Thought newsletter](https://newsletter.chainofthought.show)** — Weekly updates on AI tools, workflows, and what's working in production.
+- **[How I AI](https://www.youtube.com/@howiaipodcast)** — Podcast focused on how people actually use AI in their daily work. Practical, not theoretical.
 - **[Simon Willison's Weblog](https://simonwillison.net/)** — Deep, practical coverage of LLMs, tools, and the developer experience side of AI.
 
 ---
