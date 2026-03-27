@@ -4,7 +4,7 @@
 
 A curated learning path from zero to building your own AI-powered workflows.
 
-[![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-learning-resources?style=flat-square)](https://github.com/conorbronsdon/ai-learning-resources/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-learning-resources?style=social)](https://github.com/conorbronsdon/ai-learning-resources/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conor_Bronsdon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/conorbronsdon/)
