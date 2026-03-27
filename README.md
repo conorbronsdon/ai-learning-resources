@@ -1,6 +1,20 @@
+<div align="center">
+
 # AI Learning Resources
 
-A curated learning path from "what even is AI?" to building your own AI-powered workflows. Quality over quantity. Every resource is meant to be excellent - submit a PR if it's not!
+A curated learning path from zero to building your own AI-powered workflows.
+
+[![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-learning-resources?style=flat-square)](https://github.com/conorbronsdon/ai-learning-resources/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conor_Bronsdon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/conorbronsdon/)
+[![Podcast](https://img.shields.io/badge/Podcast-Chain_of_Thought-purple?style=flat-square)](https://chainofthought.show)
+[![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
+
+</div>
+
+---
+
 
 This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or jump to wherever you are.
 
