@@ -4,6 +4,8 @@ A curated learning path from "what even is AI?" to building your own AI-powered 
 
 This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or jump to wherever you are.
 
+*Last updated: March 2026*
+
 ## Contents
 
 - [Prerequisites](#prerequisites)
@@ -220,4 +222,6 @@ Maintained by [Conor Bronsdon](https://github.com/conorbronsdon). I host [Chain 
 
 Subscribe to the [Chain of Thought newsletter](https://newsletter.chainofthought.show) for weekly updates on AI tools, workflows, and what's actually working in production.
 
-Suggestions? Open an issue. Quality bar: you've used it and it actually helped.
+## Contributing
+
+PRs welcome. To suggest a resource, open an issue or submit a PR — include a sentence on why it's valuable and where it fits in the learning path. Quality bar: you've used it and it actually helped.
