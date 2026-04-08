@@ -2,7 +2,7 @@
 
 # AI Learning Resources
 
-A curated learning path from zero to building your own AI-powered workflows.
+A curated learning path from zero to building your own AI-powered workflows, apps, and agents.
 
 [![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-learning-resources?style=social)](https://github.com/conorbronsdon/ai-learning-resources/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
