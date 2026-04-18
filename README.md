@@ -236,3 +236,9 @@ Subscribe to the [Chain of Thought newsletter](https://newsletter.chainofthought
 ## Contributing
 
 PRs welcome. To suggest a resource, open an issue or submit a PR — include a sentence on why it's valuable and where it fits in the learning path. Quality bar: you've used it and it actually helped.
+
+---
+
+## Disclaimer
+
+*All views, opinions, and statements expressed on this account are solely my own and are made in my personal capacity. They do not reflect, and should not be construed as reflecting, the views, positions, or policies of Modular. This account is not affiliated with, authorized by, or endorsed by Modular in any way.*
