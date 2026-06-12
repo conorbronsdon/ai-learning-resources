@@ -15,7 +15,7 @@ A curated learning path from zero to building your own AI-powered workflows, app
 
 This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or jump to wherever you are.
 
-*Last updated: March 2026*
+*Last updated: June 2026*
 
 ## Contents
 
@@ -29,7 +29,7 @@ This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or j
 
 ## Prerequisites
 
-**Git:** Claude Code and many AI tools use Git for version control. If you're new to it, [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/) will get you up to speed in 10 minutes. Prefer video? [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) (Fireship, 3 min) covers the essentials.
+**Git:** Claude Code and many AI tools use Git for version control. If you're new to it, [GitHub's About Git guide](https://docs.github.com/en/get-started/using-git/about-git) will get you up to speed in 10 minutes. Prefer video? [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) (Fireship, 3 min) covers the essentials.
 
 ## Prefer a structured course?
 
@@ -38,6 +38,7 @@ If you'd rather follow a full curriculum than pick through curated links, start 
 | Course | Provider | Format | Level |
 |--------|----------|--------|-------|
 | [Anthropic Academy](https://anthropic.skilljar.com/) | Anthropic | Self-paced, free | Beginner → Advanced |
+| [OpenAI Academy](https://academy.openai.com/) | OpenAI | Self-paced, free | Beginner |
 | [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Microsoft | 21 lessons, Python/TS | Beginner → Intermediate |
 | [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) | Microsoft | 12-week curriculum | Beginner |
 | [LLM Course](https://github.com/mlabonne/llm-course) | Maxime Labonne | Colab notebooks | Intermediate → Advanced |
@@ -57,7 +58,7 @@ You don't need a CS degree. You need mental models for what's happening under th
   The single best general-audience walkthrough of how LLMs are built: pretraining, finetuning, RLHF. No technical background needed. If you watch one thing, make it this.
   *Shorter version: [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (1 hr)*
 
-- **[Neural Networks](https://www.3blue1brown.com/topics/neural-networks)** — 3Blue1Brown (video series)
+- **[Neural Networks](https://www.3blue1brown.com/?topic=neural-networks)** — 3Blue1Brown (video series)
   The gold-standard visual explainer. Starts with "what is a neural network?" and builds through backpropagation to transformers and attention. Chapters 5-7 cover LLMs specifically.
 
 - **[What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)** — Stephen Wolfram
@@ -101,6 +102,9 @@ Don't overthink the choice. Pick one and start using it daily. You'll develop pr
   The canonical "OK I have ChatGPT, now what?" post. Covers writing, analysis, images, code, and when AI fails. Regularly updated.
   *Video alternative: [AI's Productivity Paradox — and What It Means for You](https://www.ted.com/talks/ethan_mollick_ai_s_productivity_paradox_and_what_it_means_for_you) (TED Talk, 12 min) — live demos of AI transforming productivity.*
 
+- **[How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)** — Andrej Karpathy (2 hrs)
+  A practical tour of his day-to-day LLM use: which tool for which job, settings worth changing, voice, search, and file workflows. The hands-on companion to his Stage 1 deep dive.
+
 - **[Co-Intelligence: Living and Working with AI](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)** — Ethan Mollick (book)
   Best single book for non-technical professionals. Four principles: always invite AI, be the human in the loop, treat it as a smart-but-alien collaborator, assume it's the worst AI you'll ever use.
 
@@ -109,7 +113,7 @@ Don't overthink the choice. Pick one and start using it daily. You'll develop pr
 - **[An Opinionated Guide to Using AI Right Now](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai)** — Ethan Mollick
   More recent, more opinionated. Recommends specific tools for specific tasks. Good for decision-makers.
 
-- **Prompt engineering references** — Useful as reference material, but don't over-invest here. Modern tools handle most prompting complexity for you. If you want to go deep: [Anthropic's guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices), [Anthropic's interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (free, hands-on), or [DAIR.AI's Prompt Engineering Guide](https://www.promptingguide.ai/) (comprehensive reference).
+- **Prompt engineering references** — Useful as reference material, but don't over-invest here. Modern tools handle most prompting complexity for you. If you want to go deep: [Anthropic's guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices), [Anthropic's interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (free, hands-on), or [DAIR.AI's Prompt Engineering Guide](https://www.promptingguide.ai/) (comprehensive reference).
   *Video alternative: [Prompt Engineering Tutorial](https://www.youtube.com/watch?v=_ZvnD73m40o) (freeCodeCamp, ~1 hr)*
 
 ### Know the limits
@@ -152,12 +156,18 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
 - **[Claude Code GitHub repo](https://github.com/anthropics/claude-code)** — Anthropic
   Open source. Good for architecture understanding, CLAUDE.md examples, and filing issues.
 
+- **[Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview)** — Anthropic
+  Build your own agents on the same tools and agent loop that power Claude Code, in Python or TypeScript. The natural next step once skills and MCP servers feel comfortable.
+
+- **[Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)** — Anthropic
+  The reference piece on agent design: when a simple workflow beats an agent, and the composable patterns (prompt chaining, routing, orchestration) that production systems actually use. Read this before building anything autonomous.
+
 - **[MARVIN template](https://github.com/SterlingChin/marvin-template)** — Sterling Chin
   Reference architecture for an autonomous background agent that runs on GitHub Actions + Claude Code. Good example of what's possible once you're comfortable with the basics.
 
 ### MCP (Model Context Protocol)
 
-- **[What is MCP?](https://modelcontextprotocol.io/introduction)** — Anthropic / MCP team
+- **[What is MCP?](https://modelcontextprotocol.io/docs/getting-started/intro)** — Anthropic / MCP team
   "USB-C port for AI." What MCP enables, why it matters, and who supports it (Claude, ChatGPT, VS Code, Cursor, Gemini).
   *Video alternative: [Model Context Protocol Explained](https://www.youtube.com/watch?v=HyzlYwjoXOQ) (Fireship, ~8 min) — fast-paced explainer of what MCP is and why it matters.*
 
