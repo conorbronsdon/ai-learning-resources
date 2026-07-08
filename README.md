@@ -232,7 +232,10 @@ Ongoing sources worth following once you've worked through the stages:
 - **[One Useful Thing](https://www.oneusefulthing.org/)** — Ethan Mollick's Substack. The best ongoing writing about AI's practical impact on work. Updated regularly.
 - **[Chain of Thought newsletter](https://newsletter.chainofthought.show)** — Weekly updates on AI tools, workflows, and what's working in production.
 - **[How I AI](https://www.youtube.com/@howiaipodcast)** — Podcast focused on how people actually use AI in their daily work. Practical, not theoretical.
+  *Start with: [How to write AI agent loops in Claude Code and Codex](https://youtu.be/JoXbk2fm7jM) (Claire Vo, 29 min) — covers four loop types (heartbeat, cron, hook, goal) and builds two working automations on screen.*
 - **[Dwarkesh Podcast](https://www.youtube.com/@DwarkeshPatel)** — Long-form interviews with AI researchers, founders, and thinkers. The best deep-dive conversations on where AI is heading.
+  *Start with: [Will Scaling Work?](https://www.dwarkesh.com/p/will-scaling-work) (essay, 2023) — a dialogue weighing whether scaling laws keep holding or hit a data wall, still holds up years later.*
+  *Also: [What Fully Automated Firms Will Look Like](https://www.dwarkesh.com/p/ai-firm) (essay, 2025) — lays out what a company run mostly by AI agents actually looks like, not just that it's coming.*
 - **[Simon Willison's Weblog](https://simonwillison.net/)** — Deep, practical coverage of LLMs, tools, and the developer experience side of AI.
 
 ---
