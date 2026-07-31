@@ -77,7 +77,7 @@ You don't need a CS degree. You need mental models for what's happening under th
 
 ### Podcast episodes
 
-Episodes from [Chain of Thought](https://chainofthought.show) that help build your mental model:
+Episodes from [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources) that help build your mental model:
 
 - **[Beyond Transformers](https://share.transistor.fm/s/645ba9fe)** — Maxime Labonne. Model architectures beyond the transformer — what comes next.
 
@@ -125,7 +125,7 @@ AI tools hallucinate, leak data to providers, and confidently produce wrong answ
 
 ### Podcast episodes
 
-- **[He Built an AI Coworker That Runs 90% of His Day](https://newsletter.chainofthought.show/p/he-named-his-ai-coworker-marvin-it)** — Sterling Chin. A practitioner who stopped treating AI as a tool and started treating it like a junior employee. The clearest example of what daily AI integration looks like.
+- **[He Built an AI Coworker That Runs 90% of His Day](https://newsletter.chainofthought.show/p/he-named-his-ai-coworker-marvin-it?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Sterling Chin. A practitioner who stopped treating AI as a tool and started treating it like a junior employee. The clearest example of what daily AI integration looks like.
 
 
 ## Stage 3: Build with AI Coding Tools
@@ -214,7 +214,7 @@ The hardest part isn't using AI — it's knowing what it changes about your work
 - **[Co-Intelligence](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)** — Ethan Mollick (book, also listed in Stage 2)
   The strategic framing chapters are as valuable as the practical ones. Read it twice — once for "how" and once for "what it means."
 
-- **[Block Cut 4,000 Jobs and Blamed AI. The Truth is More Complicated.](https://newsletter.chainofthought.show/p/block-cut-4000-jobs-and-blamed-ai)** — Conor Bronsdon
+- **[Block Cut 4,000 Jobs and Blamed AI. The Truth is More Complicated.](https://newsletter.chainofthought.show/p/block-cut-4000-jobs-and-blamed-ai?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Conor Bronsdon
   What actually happens when a company restructures around AI. The gap between the headline and the reality.
 
 ### Podcast episodes
@@ -230,7 +230,7 @@ The hardest part isn't using AI — it's knowing what it changes about your work
 Ongoing sources worth following once you've worked through the stages:
 
 - **[One Useful Thing](https://www.oneusefulthing.org/)** — Ethan Mollick's Substack. The best ongoing writing about AI's practical impact on work. Updated regularly.
-- **[Chain of Thought newsletter](https://newsletter.chainofthought.show)** — Weekly updates on AI tools, workflows, and what's working in production.
+- **[Chain of Thought newsletter](https://newsletter.chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Weekly updates on AI tools, workflows, and what's working in production.
 - **[How I AI](https://www.youtube.com/@howiaipodcast)** — Podcast focused on how people actually use AI in their daily work. Practical, not theoretical.
   *Start with: [How to write AI agent loops in Claude Code and Codex](https://youtu.be/JoXbk2fm7jM) (Claire Vo, 29 min) — covers four loop types (heartbeat, cron, hook, goal) and builds two working automations on screen.*
 - **[Dwarkesh Podcast](https://www.youtube.com/@DwarkeshPatel)** — Long-form interviews with AI researchers, founders, and thinkers. The best deep-dive conversations on where AI is heading.
@@ -242,9 +242,9 @@ Ongoing sources worth following once you've worked through the stages:
 
 ## About
 
-Maintained by [Conor Bronsdon](https://github.com/conorbronsdon). I host [Chain of Thought](https://chainofthought.show), a podcast about AI infrastructure, developer tools, and how practitioners use AI in production. Many of these resources were discovered through conversations with guests on the show.
+Maintained by [Conor Bronsdon](https://github.com/conorbronsdon). I host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources), a podcast about AI infrastructure, developer tools, and how practitioners use AI in production. Many of these resources were discovered through conversations with guests on the show.
 
-Subscribe to the [Chain of Thought newsletter](https://newsletter.chainofthought.show) for weekly updates on AI tools, workflows, and what's actually working in production.
+Subscribe to the [Chain of Thought newsletter](https://newsletter.chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources) for weekly updates on AI tools, workflows, and what's actually working in production.
 
 ## Contributing
 
