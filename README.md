@@ -6,6 +6,7 @@ A curated learning path from zero to building your own AI-powered workflows, app
 
 [![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-learning-resources?style=social)](https://github.com/conorbronsdon/ai-learning-resources/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Podcast](https://img.shields.io/badge/Podcast-Chain_of_Thought-purple?style=flat-square)](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
 
 </div>
