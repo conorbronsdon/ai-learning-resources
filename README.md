@@ -16,7 +16,9 @@ A curated learning path from zero to building your own AI-powered workflows, app
 
 This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or jump to wherever you are.
 
-*Last updated: June 2026*
+Want the plain-English version first? [AI, decoded](https://chainofthought.show/ai-decoded/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources) on chainofthought.show has short explainers for the same ground, each drawn from a Chain of Thought conversation.
+
+*Last updated: October 2026*
 
 ## Contents
 
@@ -24,8 +26,9 @@ This isn't a dump of links. It's a path. Start at Stage 1 and work forward, or j
 - [Structured courses](#prefer-a-structured-course) (alternative to the staged path)
 - [Stage 1: Understand How AI Works](#stage-1-understand-how-ai-works)
 - [Stage 2: Start Using AI Effectively](#stage-2-start-using-ai-effectively)
-- [Stage 3: Build with AI Coding Tools](#stage-3-build-with-ai-coding-tools)
-- [Stage 4: Think Strategically About AI](#stage-4-think-strategically-about-ai)
+- [Stage 3: Evaluate What AI Produces](#stage-3-evaluate-what-ai-produces)
+- [Stage 4: Build with AI Coding Tools](#stage-4-build-with-ai-coding-tools)
+- [Stage 5: Think Strategically About AI](#stage-5-think-strategically-about-ai)
 - [Keep Learning](#keep-learning) (ongoing resources)
 
 ## Prerequisites
@@ -80,7 +83,7 @@ You don't need a CS degree. You need mental models for what's happening under th
 
 Episodes from [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources) that help build your mental model:
 
-- **[Beyond Transformers](https://share.transistor.fm/s/645ba9fe)** — Maxime Labonne. Model architectures beyond the transformer — what comes next.
+- **[Beyond Transformers](https://chainofthought.show/podcast/43-beyond-transformers-how-liquid-ai-is-rethinking-llm-architecture-maxime-labonne/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Maxime Labonne. Model architectures beyond the transformer — what comes next.
 
 ## Stage 2: Start Using AI Effectively
 
@@ -93,7 +96,7 @@ There are many AI tools, and more launching every week. The main ones worth know
 - **Claude** (Anthropic) — strong at writing, analysis, and long documents (my personal favorite as of 2026)
 - **Gemini** (Google) — integrated with Google Workspace
 - **Perplexity** — AI-powered search with citations
-- **Claude Code / Codex / Cursor / Windsurf** — AI coding tools (see Stage 3)
+- **Claude Code / Codex / Cursor / Windsurf** — AI coding tools (see Stage 4)
 
 Don't overthink the choice. Pick one and start using it daily. You'll develop preferences fast.
 
@@ -129,7 +132,37 @@ AI tools hallucinate, leak data to providers, and confidently produce wrong answ
 - **[He Built an AI Coworker That Runs 90% of His Day](https://newsletter.chainofthought.show/p/he-named-his-ai-coworker-marvin-it?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Sterling Chin. A practitioner who stopped treating AI as a tool and started treating it like a junior employee. The clearest example of what daily AI integration looks like.
 
 
-## Stage 3: Build with AI Coding Tools
+## Stage 3: Evaluate What AI Produces
+
+AI output can't be checked with a simple pass/fail test: the same input can give different answers, and many answers are a judgment call. Evals are how teams find out whether an AI system does its job before users find out it doesn't. Learn this before you build, and the next stage goes faster.
+
+### Start here
+
+- **[Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)** — Hamel Husain
+  Why every AI product needs evals, and three levels of testing, from quick automated checks on every change to A/B tests with real users, with a worked example.
+
+- **[Why AI evals are the hottest new skill for product builders](https://www.youtube.com/watch?v=BsWxPI9UM4c)** — Lenny's Podcast with Hamel Husain and Shreya Shankar (video)
+  The same ideas framed for product managers and leaders rather than engineers.
+
+### Go deeper
+
+- **[A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/)** — Hamel Husain
+  How the teams that improve fastest work: error analysis, simple data viewers, domain experts writing prompts, and roadmaps that count experiments instead of features.
+
+- **[AI Evaluations Clearly Explained in 50 Minutes (Real Example)](https://www.youtube.com/watch?v=uiza7wp1KrE)** — Peter Yang with Hamel Husain (video)
+  A worked example from start to finish, if you learn better by watching someone do it.
+
+- **[How do you test an AI system when the output isn't deterministic?](https://chainofthought.show/ai-decoded/how-to-test-an-ai-system/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — AI, decoded
+  The plain-English version: test properties instead of exact answers, and rerun the suite on every change.
+
+### Podcast episodes
+
+- **[Practical Lessons for GenAI Evals](https://chainofthought.show/podcast/5-practical-lessons-for-genai-evals-chip-huyen-and-vivienne-zhang/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Chip Huyen & Vivienne Zhang. What a hallucination is, when it matters, and how to evaluate for it.
+- **[Mindset Over Metrics](https://chainofthought.show/podcast/37-mindset-over-metrics-how-to-approach-ai-engineering-hamel-husain/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Hamel Husain. Why error analysis ("look at your data") beats a dashboard of generic metrics.
+- **[Explaining Eval Engineering](https://chainofthought.show/podcast/46-explaining-eval-engineering-galileos-vikram-chatterji/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Vikram Chatterji (Galileo). Treating evals as ongoing engineering work, and who writes them.
+- **[Every AI Agent Has an Evaluation Gap](https://chainofthought.show/podcast/57-every-ai-agent-has-an-evaluation-gap-alex-ratner-snorkel-ai/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Alex Ratner (Snorkel AI). Why AI capabilities are outrunning our ability to measure them, and where benchmarks fit.
+
+## Stage 4: Build with AI Coding Tools
 
 Hands-on. Install tools, build workflows, connect AI to your actual work. This section focuses on Claude Code and MCP, but the patterns apply to Cursor, Windsurf, Cline, and other AI coding tools too.
 
@@ -149,7 +182,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
   Free official course with certificate. Teaches building, configuring, and sharing Skills.
 
 - **[Anthropic Academy](https://anthropic.skilljar.com/)** — Anthropic
-  13 free self-paced courses: Claude 101, AI Fluency, Claude Code, MCP, the API, and certification (Claude Certified Architect).
+  23 free self-paced courses as of October 2026, from Claude 101 and AI Fluency to Claude Code, MCP, agent skills and the API.
 
 - **[How Anthropic Teams Use Claude Code](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf)** — Anthropic (PDF)
   Internal practices showing how Anthropic's own teams use Claude Code. Good for advanced patterns.
@@ -160,7 +193,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
 - **[Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview)** — Anthropic
   Build your own agents on the same tools and agent loop that power Claude Code, in Python or TypeScript. The natural next step once skills and MCP servers feel comfortable.
 
-- **[Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)** — Anthropic
+- **[Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)** — Anthropic
   The reference piece on agent design: when a simple workflow beats an agent, and the composable patterns (prompt chaining, routing, orchestration) that production systems actually use. Read this before building anything autonomous.
 
 - **[MARVIN template](https://github.com/SterlingChin/marvin-template)** — Sterling Chin
@@ -170,7 +203,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
 
 - **[What is MCP?](https://modelcontextprotocol.io/docs/getting-started/intro)** — Anthropic / MCP team
   "USB-C port for AI." What MCP enables, why it matters, and who supports it (Claude, ChatGPT, VS Code, Cursor, Gemini).
-  *Video alternative: [Model Context Protocol Explained](https://www.youtube.com/watch?v=HyzlYwjoXOQ) (Fireship, ~8 min) — fast-paced explainer of what MCP is and why it matters.*
+  *Plain-English alternative: [What can MCP actually do?](https://chainofthought.show/ai-decoded/what-can-mcp-do/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources) (AI, decoded) — what MCP unlocks that a chatbot can't, from Block's rollout of MCP-connected agents.*
 
 - **[MCP Quickstart: Build a Server](https://modelcontextprotocol.io/docs/develop/build-server)** — MCP team
   Official tutorial: build a weather MCP server and connect it. Python and TypeScript.
@@ -199,10 +232,10 @@ Once you have Claude Code installed, try these as starter projects. Don't have a
 
 ### Podcast episodes
 
-- **[The Critical Infrastructure Behind the AI Boom](https://share.transistor.fm/s/43ad9185)** — Jeetu Patel (Cisco). Big-picture infrastructure view — networking, compute, the plumbing behind AI.
-- **[After Code Gen](https://share.transistor.fm/s/5fbf1f25)** — Greg Foster (Graphite). What the dev workflow looks like when AI writes the code.
+- **[The Critical Infrastructure Behind the AI Boom](https://chainofthought.show/podcast/44-the-critical-infrastructure-behind-the-ai-boom-cisco-cpo-jeetu-patel/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Jeetu Patel (Cisco). Big-picture infrastructure view — networking, compute, the plumbing behind AI.
+- **[After Code Gen](https://chainofthought.show/podcast/40-after-code-gen-what-graphite-is-building-for-the-post-ai-dev-stack-greg-foster/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Greg Foster (Graphite). What the dev workflow looks like when AI writes the code.
 
-## Stage 4: Think Strategically About AI
+## Stage 5: Think Strategically About AI
 
 The hardest part isn't using AI — it's knowing what it changes about your work, your industry, and your decisions.
 
@@ -220,11 +253,11 @@ The hardest part isn't using AI — it's knowing what it changes about your work
 
 ### Podcast episodes
 
-- **[First Code, Then AGI](https://share.transistor.fm/s/17ac922c)** — Jason Warner & Eiso Kant (Poolside). Big-picture thinking on the path to AGI through software specialization.
-- **[How AI Velocity is Rewriting the Rules for Engineering Leaders](https://share.transistor.fm/s/5178eb0a)** — Claire Vo (ChatPRD). Leadership accountability framework for AI adoption.
-- **[From Demo to Defensibility](https://share.transistor.fm/s/fdb45b54)** — Aurimas Griciuanas. Why most AI demos don't become real businesses, and what separates the ones that do.
-- **[How Block Deployed AI Agents to 12,000 Employees in 8 Weeks w/ MCP](https://share.transistor.fm/s/90efac38)** — Angie Jones. Concrete enterprise deployment with real numbers.
-- **[Architecting AI Agents: The Shift from Models to Systems](https://share.transistor.fm/s/a22109d3)** — Aishwarya Srinivasan. How to think about agents as systems, not just models.
+- **[First Code, Then AGI](https://chainofthought.show/podcast/23-first-code-then-agi-softwares-event-horizon-with-poolside-founders-jason-warner-and-eiso-k/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Jason Warner & Eiso Kant (Poolside). Big-picture thinking on the path to AGI through software specialization.
+- **[How AI Velocity is Rewriting the Rules for Engineering Leaders](https://chainofthought.show/podcast/36-how-ai-velocity-is-rewriting-the-rules-for-engineering-leaders-chatprds-claire-vo/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Claire Vo (ChatPRD). Leadership accountability framework for AI adoption.
+- **[From Demo to Defensibility](https://chainofthought.show/podcast/38-from-demo-to-defensibility-how-to-build-an-ai-business-that-lasts-aurimas-grici-nas/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Aurimas Griciūnas. Why most AI demos don't become real businesses, and what separates the ones that do.
+- **[How Block Deployed AI Agents to 12,000 Employees in 8 Weeks w/ MCP](https://chainofthought.show/podcast/48-how-block-deployed-ai-agents-to-12-000-employees-in-8-weeks-w-mcp-angie-jones/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Angie Jones. Concrete enterprise deployment with real numbers.
+- **[Architecting AI Agents: The Shift from Models to Systems](https://chainofthought.show/podcast/42-architecting-ai-agents-the-shift-from-models-to-systems-aishwarya-srinivasan/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-learning-resources)** — Aishwarya Srinivasan. How to think about agents as systems, not just models.
 
 ## Keep learning
 
