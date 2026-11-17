@@ -188,16 +188,16 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
   Internal practices showing how Anthropic's own teams use Claude Code. Good for advanced patterns.
 
 - **[Claude Code GitHub repo](https://github.com/anthropics/claude-code)** — Anthropic
-  Open source. Good for architecture understanding, CLAUDE.md examples, and filing issues.
+  Public repo for the changelog, plugins, example settings and hooks (`examples/settings`, `examples/hooks`), and filing issues. The CLI itself isn't open source (the license is all rights reserved).
 
 - **[Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview)** — Anthropic
   Build your own agents on the same tools and agent loop that power Claude Code, in Python or TypeScript. The natural next step once skills and MCP servers feel comfortable.
 
-- **[Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)** — Anthropic
+- **[Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)** — Anthropic
   The reference piece on agent design: when a simple workflow beats an agent, and the composable patterns (prompt chaining, routing, orchestration) that production systems actually use. Read this before building anything autonomous.
 
 - **[MARVIN template](https://github.com/SterlingChin/marvin-template)** — Sterling Chin
-  Reference architecture for an autonomous background agent that runs on GitHub Actions + Claude Code. Good example of what's possible once you're comfortable with the basics.
+  An "AI chief of staff" template built on Claude Code: session continuity, goal tracking, daily briefings, and integrations (Google Workspace, Slack, Linear, and more), extensible with commands, agents, and skills. Good example of what's possible once you're comfortable with the basics.
 
 ### MCP (Model Context Protocol)
 
@@ -212,7 +212,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
   Core concepts: resources, tools, prompts, transports, client-server architecture.
 
 - **[Official MCP Servers](https://github.com/modelcontextprotocol/servers)** — MCP team
-  Reference implementations and community servers. Browse to see what MCP servers look like in practice.
+  The small set of reference servers maintained by the MCP steering group; for everything else, the repo points to the [MCP Registry](https://registry.modelcontextprotocol.io/). Browse to see what MCP servers look like in practice.
 
 - **[awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** — wong2
   Largest curated list of MCP servers by category. Good for discovering what's available.
