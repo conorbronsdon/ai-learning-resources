@@ -188,7 +188,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
   Internal practices showing how Anthropic's own teams use Claude Code. Good for advanced patterns.
 
 - **[Claude Code GitHub repo](https://github.com/anthropics/claude-code)** — Anthropic
-  Public repo for the changelog, example settings and hooks, and filing issues. The CLI itself isn't open source (the license is all rights reserved).
+  Public repo for the changelog, plugins, example settings and hooks (`examples/settings`, `examples/hooks`), and filing issues. The CLI itself isn't open source (the license is all rights reserved).
 
 - **[Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview)** — Anthropic
   Build your own agents on the same tools and agent loop that power Claude Code, in Python or TypeScript. The natural next step once skills and MCP servers feel comfortable.
@@ -212,7 +212,7 @@ Hands-on. Install tools, build workflows, connect AI to your actual work. This s
   Core concepts: resources, tools, prompts, transports, client-server architecture.
 
 - **[Official MCP Servers](https://github.com/modelcontextprotocol/servers)** — MCP team
-  The small set of reference servers maintained by the MCP steering group (community servers are no longer listed here). Browse to see what MCP servers look like in practice.
+  The small set of reference servers maintained by the MCP steering group; for everything else, the repo points to the [MCP Registry](https://registry.modelcontextprotocol.io/). Browse to see what MCP servers look like in practice.
 
 - **[awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** — wong2
   Largest curated list of MCP servers by category. Good for discovering what's available.
